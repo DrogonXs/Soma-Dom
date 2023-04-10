@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/956/998/449/binary-technology-code-numbers-hd-wallpaper-thumb.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+p{
+    color: red;
+    text-shadow: 1px 1px 1px black;
+    font-size: 27px;
+}
+
+.soma{
+    max-width: 360px;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 2px 4px 1px;
+    margin-left: 550px;
+    font-size: 20px;
+    margin: 15px 25px;
+    background-image: url(https://telesintese.com.br/wp-content/uploads/2017/05/TeleSintese-Numeros-Faixas-ondas-abstrata-Fotolia_142086011.jpg)
+    
+   
+}
+#res{
+    color:rgb(248, 21, 21);
+    text-shadow: 1px 1px 1px black;
+}
